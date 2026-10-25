@@ -1,0 +1,23 @@
+# Python 3.14. Versions are those used for the dissertation's final run.
+
+# Notebooks and build_3hourly.py
+Boruta==0.4.3
+holidays==0.92
+ipykernel==7.3.0
+ipython==9.17.1
+matplotlib==3.11.2
+mysql-connector-python==26.7.0
+numpy==2.5.3
+openpyxl==3.1.5
+pandas==2.3.3
+paramiko==5.0.0
+prophet==1.1.7
+scikit-learn==1.9.1
+sshtunnel==0.4.0
+statsmodels>=0.14
+torch==2.14.0
+xgboost==3.4.1
+
+# owapi.py only (runs on the database server)
+mysqlclient
+requests==2.34.2

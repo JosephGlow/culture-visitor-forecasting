@@ -1,0 +1,8 @@
+{
+  "ssh_host": "DOMAIN",
+  "ssh_port": 2222,
+  "ssh_user": "user",
+  "ssh_pkey": "~/.ssh/id_ed25519",
+  "db_user": "user",
+  "db_name": "nml"
+}
